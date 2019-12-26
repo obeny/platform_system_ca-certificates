@@ -1,0 +1,4 @@
+openssl x509 -subject_hash_old -in <cert>
+cp ca.crt <hash>.0
+openssl x509 -in <cert> -text -noout >> <hash>.0
+openssl x509 -noout -fingerprint -sha1 -inform pem -in <cert> >> <hash>.0
