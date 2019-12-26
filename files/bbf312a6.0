@@ -1,0 +1,84 @@
+-----BEGIN CERTIFICATE-----
+MIIEHTCCAwWgAwIBAgIUOifOp/r04hNV///SCVCYzIRBN2IwDQYJKoZIhvcNAQEL
+BQAwgZ0xCzAJBgNVBAYTAlBMMRUwEwYDVQQIDAxEb2xub3NsYXNraWUxEDAOBgNV
+BAcMB1dyb2NsYXcxGjAYBgNVBAoMEU9CRU5ZLk5FVCBDQSAyMDE5MRUwEwYDVQQL
+DAxPQkVOWS5ORVQgQ0ExEjAQBgNVBAMMCW9iZW55Lm5ldDEeMBwGCSqGSIb3DQEJ
+ARYPYWRtaW5Ab2JlbnkubmV0MB4XDTE5MTIyNjAwMTMzM1oXDTIyMTIyNTAwMTMz
+M1owgZ0xCzAJBgNVBAYTAlBMMRUwEwYDVQQIDAxEb2xub3NsYXNraWUxEDAOBgNV
+BAcMB1dyb2NsYXcxGjAYBgNVBAoMEU9CRU5ZLk5FVCBDQSAyMDE5MRUwEwYDVQQL
+DAxPQkVOWS5ORVQgQ0ExEjAQBgNVBAMMCW9iZW55Lm5ldDEeMBwGCSqGSIb3DQEJ
+ARYPYWRtaW5Ab2JlbnkubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAwVO/2/YJDgz8P7+nBaUqArUGhqPR+GObjqaws3qxTGtZJY/HeEHRrNvRUvj8
+FC87BzN7WnsTz8SzJzOleRXXTW9Oeh0/NEjBfvda9vUKlX3694YLAr7uy9DFvlaZ
+ysLEkR2vwmcD4Fsrw9AK76zj+sPK278jUcCW3y4Ul0wExnsvBk32shj+bCZsD6hY
+PYhgjqRVeYxGkTsJ9zhbkWju2o55EWHc2c7bD5QaeqCVf/AYXHZhKgQOo46LZCJD
+aVtMjHkujg5CYoGDQHRd0cFMfT6iOViVu9EztU+3IW3RJs55BDGvk+6yVKb2FclC
+5Gx0whjy4M9ayVg0a58BbRW2EwIDAQABo1MwUTAdBgNVHQ4EFgQUwACJ2OIarxcx
+lrkoSUHCa4ZqwsQwHwYDVR0jBBgwFoAUwACJ2OIarxcxlrkoSUHCa4ZqwsQwDwYD
+VR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAHFRWaFzCz/Aaqu2xcPRc
+uUWBFAxEih1sdSjdJWwhpzThGtPmtMlVwWTvvTL+lVT3YdA9Q7L9rLIjC0FcNuFM
+I7/iykz/sp1tjPHMDKeRmO1cHC6NfOaUJyA5UQbL+2+PwPZhpC+ry8AAfkdlPmU5
+VKP6qSpXjRnu9sisQ8fJlifBYxXDCI8TjF/OhmfLSXuOiiBGZhYEavtL3TI/rDci
++0reilueU9JxEPD09HhmR6JID/9ybQMnY8LQOORRIJ9GXdxLkTtV51XwQJhGcmxx
+6GE9m9/zQtJhAVScPc6KjaUukY0Iqp9f+KZf2fNjZAeTpaFZ2PDk8YQlMdaxDf4K
+tA==
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            3a:27:ce:a7:fa:f4:e2:13:55:ff:ff:d2:09:50:98:cc:84:41:37:62
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = PL, ST = Dolnoslaskie, L = Wroclaw, O = OBENY.NET CA 2019, OU = OBENY.NET CA, CN = obeny.net, emailAddress = admin@obeny.net
+        Validity
+            Not Before: Dec 26 00:13:33 2019 GMT
+            Not After : Dec 25 00:13:33 2022 GMT
+        Subject: C = PL, ST = Dolnoslaskie, L = Wroclaw, O = OBENY.NET CA 2019, OU = OBENY.NET CA, CN = obeny.net, emailAddress = admin@obeny.net
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:c1:53:bf:db:f6:09:0e:0c:fc:3f:bf:a7:05:a5:
+                    2a:02:b5:06:86:a3:d1:f8:63:9b:8e:a6:b0:b3:7a:
+                    b1:4c:6b:59:25:8f:c7:78:41:d1:ac:db:d1:52:f8:
+                    fc:14:2f:3b:07:33:7b:5a:7b:13:cf:c4:b3:27:33:
+                    a5:79:15:d7:4d:6f:4e:7a:1d:3f:34:48:c1:7e:f7:
+                    5a:f6:f5:0a:95:7d:fa:f7:86:0b:02:be:ee:cb:d0:
+                    c5:be:56:99:ca:c2:c4:91:1d:af:c2:67:03:e0:5b:
+                    2b:c3:d0:0a:ef:ac:e3:fa:c3:ca:db:bf:23:51:c0:
+                    96:df:2e:14:97:4c:04:c6:7b:2f:06:4d:f6:b2:18:
+                    fe:6c:26:6c:0f:a8:58:3d:88:60:8e:a4:55:79:8c:
+                    46:91:3b:09:f7:38:5b:91:68:ee:da:8e:79:11:61:
+                    dc:d9:ce:db:0f:94:1a:7a:a0:95:7f:f0:18:5c:76:
+                    61:2a:04:0e:a3:8e:8b:64:22:43:69:5b:4c:8c:79:
+                    2e:8e:0e:42:62:81:83:40:74:5d:d1:c1:4c:7d:3e:
+                    a2:39:58:95:bb:d1:33:b5:4f:b7:21:6d:d1:26:ce:
+                    79:04:31:af:93:ee:b2:54:a6:f6:15:c9:42:e4:6c:
+                    74:c2:18:f2:e0:cf:5a:c9:58:34:6b:9f:01:6d:15:
+                    b6:13
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                C0:00:89:D8:E2:1A:AF:17:31:96:B9:28:49:41:C2:6B:86:6A:C2:C4
+            X509v3 Authority Key Identifier: 
+                keyid:C0:00:89:D8:E2:1A:AF:17:31:96:B9:28:49:41:C2:6B:86:6A:C2:C4
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+    Signature Algorithm: sha256WithRSAEncryption
+         1c:54:56:68:5c:c2:cf:f0:1a:aa:ed:b1:70:f4:5c:b9:45:81:
+         14:0c:44:8a:1d:6c:75:28:dd:25:6c:21:a7:34:e1:1a:d3:e6:
+         b4:c9:55:c1:64:ef:bd:32:fe:95:54:f7:61:d0:3d:43:b2:fd:
+         ac:b2:23:0b:41:5c:36:e1:4c:23:bf:e2:ca:4c:ff:b2:9d:6d:
+         8c:f1:cc:0c:a7:91:98:ed:5c:1c:2e:8d:7c:e6:94:27:20:39:
+         51:06:cb:fb:6f:8f:c0:f6:61:a4:2f:ab:cb:c0:00:7e:47:65:
+         3e:65:39:54:a3:fa:a9:2a:57:8d:19:ee:f6:c8:ac:43:c7:c9:
+         96:27:c1:63:15:c3:08:8f:13:8c:5f:ce:86:67:cb:49:7b:8e:
+         8a:20:46:66:16:04:6a:fb:4b:dd:32:3f:ac:37:22:fb:4a:de:
+         8a:5b:9e:53:d2:71:10:f0:f4:f4:78:66:47:a2:48:0f:ff:72:
+         6d:03:27:63:c2:d0:38:e4:51:20:9f:46:5d:dc:4b:91:3b:55:
+         e7:55:f0:40:98:46:72:6c:71:e8:61:3d:9b:df:f3:42:d2:61:
+         01:54:9c:3d:ce:8a:8d:a5:2e:91:8d:08:aa:9f:5f:f8:a6:5f:
+         d9:f3:63:64:07:93:a5:a1:59:d8:f0:e4:f1:84:25:31:d6:b1:
+         0d:fe:0a:b4
+SHA1 Fingerprint=A9:38:7F:FE:D8:3E:9F:4B:12:4B:4E:E1:5A:6E:BB:50:89:E2:2B:CE
